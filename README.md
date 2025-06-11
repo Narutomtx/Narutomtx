@@ -69,7 +69,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BhajBpenNxcDlxamx3NDNyajhyOTA4cWM5MXcyZzlyMTZlaXh5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XLoAphEiufV6/giphy.gif" />
+  <img height="200" src="https://files.catbox.moe/5u1w3c.gif" />
 </div>
+
 
 ###
