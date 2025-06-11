@@ -69,7 +69,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://files.catbox.moe/5u1w3c.gif" />
+  <img height="200" src="https://files.catbox.moe/8e00qx.webp" />
 </div>
 
 
